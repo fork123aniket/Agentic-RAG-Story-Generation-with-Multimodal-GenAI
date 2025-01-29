@@ -19,7 +19,8 @@ This project demonstrates how **LLMs, retrieval systems, and vision models** can
 🔹 **LLM-Driven Story Generation**: Generates **rich, context-aware** narratives using **InternVL2-40B**.  
 🔹 **Chroma Vector Search**: Stores and retrieves **image-text embeddings** for enhanced relevance.  
 🔹 **Cloud Integration**: Supports **Cloudinary** for image hosting and efficient handling.  
-🔹 **Streamlit UI**: Interactive interface for seamless user interaction.  
+🔹 **Streamlit UI**: Interactive interface for seamless user interaction. 
+🔹 **Speech-Enabled Narratives**: Turns AI-generated stories into spoken words for an interactive experience.  
 
 ---
 
@@ -54,7 +55,7 @@ This project follows an **Agentic RAG (Retrieval-Augmented Generation) framework
      
 4️⃣ **LLM-Based Generation**: Uses **InternVL2-40B** to craft a compelling story.  
 5️⃣ **User Display**: The generated story is displayed in the UI.  
-6️⃣ **Audio Narration** – Converts generated stories into speech.  
+6️⃣ **Audio Narration**: Converts generated stories into speech.  
 
 This approach ensures **optimal use of existing knowledge** while allowing for **creative story generation** when necessary.  
 
