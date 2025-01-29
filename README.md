@@ -64,7 +64,7 @@ This approach ensures **optimal use of existing knowledge** while allowing for *
 
 The diagram below illustrates the **modular AI workflow** used in this project.  
 
-![Visual Storytelling Workflow](image.png)  
+![Visual Storytelling Workflow]([image.png](https://github.com/fork123aniket/Agentic-RAG-Storytelling-with-Multimodal-GenAI/blob/main/Images/Architecture.jpg))  
 
 ### **Workflow Breakdown**  
 - **Start** → Initializes the workflow.  
