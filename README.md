@@ -19,7 +19,7 @@ This project demonstrates how **LLMs, retrieval systems, and vision models** can
 🔹 **LLM-Driven Story Generation**: Generates **rich, context-aware** narratives using **InternVL2-40B**.  
 🔹 **Chroma Vector Search**: Stores and retrieves **image-text embeddings** for enhanced relevance.  
 🔹 **Cloud Integration**: Supports **Cloudinary** for image hosting and efficient handling.  
-🔹 **Streamlit UI**: Interactive interface for seamless user interaction. 
+🔹 **Streamlit UI**: Interactive interface for seamless user interaction.  
 🔹 **Speech-Enabled Narratives**: Turns AI-generated stories into spoken words for an interactive experience.  
 
 ---
