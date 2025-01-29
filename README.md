@@ -1,4 +1,4 @@
-# 📖 **Agentic RAG Storytelling with Multimodal AI**  
+# 📖 **Agentic RAG Story Generation with Multimodal AI**  
 
 ### **Transform Images into Engaging Narratives with Generative AI**  
 
@@ -8,15 +8,15 @@ This project implements an **Agentic RAG (Retrieval-Augmented Generation) workfl
 ---
 
 ## 🎯 **Why Agentic RAG?**  
-This project demonstrates how **LLMs, retrieval systems, and vision models** can collaborate to generate dynamic and **engaging AI-generated stories**. The **agentic workflow** makes it possible to balance **creativity and factuality**, ensuring a seamless storytelling experience.
+This project demonstrates how **LLMs, retrieval systems, and vision models** can collaborate to generate dynamic and **engaging AI-generated stories**. The **agentic workflow** makes it possible to balance **creativity and factuality**, ensuring a seamless story generation experience.
 
 ---
 
 ## ✨ Key Features  
-🔹 **Multimodal Input Handling**: Accepts **image uploads** and processes them for storytelling.  
+🔹 **Multimodal Input Handling**: Accepts **image uploads** and processes them for story generation.  
 🔹 **Retrieval-Augmented Generation (RAG)**: Enhances story coherence using **retrieved knowledge**.  
 🔹 **Agentic AI Workflow**: Dynamically selects **retriever** or **generator** based on available data.  
-🔹 **LLM-Driven Storytelling**: Generates **rich, context-aware** narratives using **InternVL2-40B**.  
+🔹 **LLM-Driven Story Generation**: Generates **rich, context-aware** narratives using **InternVL2-40B**.  
 🔹 **Chroma Vector Search**: Stores and retrieves **image-text embeddings** for enhanced relevance.  
 🔹 **Cloud Integration**: Supports **Cloudinary** for image hosting and efficient handling.  
 🔹 **Streamlit UI**: Interactive interface for seamless user interaction.  
@@ -25,7 +25,7 @@ This project demonstrates how **LLMs, retrieval systems, and vision models** can
 
 ## 🛠 **Technology Stack**  
 
-This project leverages cutting-edge **LLMs, multimodal AI, and retrieval-based techniques** to ensure seamless and engaging storytelling.  
+This project leverages cutting-edge **LLMs, multimodal AI, and retrieval-based techniques** to ensure seamless and engaging story generation.  
 
 | **Category**       | **Technology Used** |
 |--------------------|--------------------|
@@ -56,7 +56,7 @@ This project follows an **Agentic RAG (Retrieval-Augmented Generation) framework
 5️⃣ **User Display**: The generated story is displayed in the UI.  
 6️⃣ **Audio Narration** – Converts generated stories into speech.  
 
-This approach ensures **optimal use of existing knowledge** while allowing for **creative storytelling** when necessary.  
+This approach ensures **optimal use of existing knowledge** while allowing for **creative story generation** when necessary.  
 
 ---
 
@@ -64,7 +64,7 @@ This approach ensures **optimal use of existing knowledge** while allowing for *
 
 The diagram below illustrates the **modular AI workflow** used in this project.  
 
-![Visual Storytelling Workflow](https://github.com/fork123aniket/Agentic-RAG-Storytelling-with-Multimodal-GenAI/blob/main/Images/Architecture.jpg)  
+![Visual Story Generation Workflow](https://github.com/fork123aniket/Agentic-RAG-Story-Generation-with-Multimodal-GenAI/blob/main/Images/Architecture.jpg)  
 
 ### **Workflow Breakdown**  
 - **Start** → Initializes the workflow.  
@@ -82,8 +82,8 @@ This **state-driven agentic AI approach** ensures that each decision maximizes t
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/fork123aniket/Agentic-RAG-Storytelling-with-Multimodal-GenAI.git
-cd Agentic-RAG-Storytelling-with-Multimodal-GenAI
+git clone https://github.com/fork123aniket/Agentic-RAG-Story-Generation-with-Multimodal-GenAI.git
+cd Agentic-RAG-Story-Generation-with-Multimodal-GenAI
 ```
 
 ### **2️⃣ Install Dependencies**  
@@ -106,7 +106,7 @@ cloudinary.config(
 streamlit run Agentic_Workflow.py
 ```
 
-### **5️⃣ Upload an Image & Enjoy AI-Powered Storytelling!**  
+### **5️⃣ Upload an Image & Enjoy AI-Powered Story Generation!**  
 
 ---
 
@@ -115,7 +115,7 @@ streamlit run Agentic_Workflow.py
 The project is structured as follows:  
 
 ```
-📦 Agentic_RAG_Storytelling
+📦 Agentic_RAG_Story_Generation
 ├── 📜 Agentic_Workflow.py      # Core agentic workflow implementation
 ├── 📜 requirements.txt         # Dependencies list
 ├── 📜 README.md                # Project documentation
