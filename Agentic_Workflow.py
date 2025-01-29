@@ -251,7 +251,7 @@ def run_streamlit_app():
         if st.session_state.image_hash is None:
             st.session_state.image_hash = current_image_hash
         elif st.session_state.image_hash != current_image_hash:
-            st.session_state.story_history = []  # Reset chat history
+            st.session_state.story_history = []  # Reset story history
             st.session_state.image_hash = current_image_hash
             st.warning("Image has changed!")
 
