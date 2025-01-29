@@ -16,7 +16,7 @@ This project demonstrates how **LLMs, retrieval systems, and vision models** can
 🔹 **Multimodal Input Handling**: Accepts **image uploads** and processes them for storytelling.  
 🔹 **Retrieval-Augmented Generation (RAG)**: Enhances story coherence using **retrieved knowledge**.  
 🔹 **Agentic AI Workflow**: Dynamically selects **retriever** or **generator** based on available data.  
-🔹 **LLM-Driven Storytelling**: Generates **rich, context-aware** narratives using **GPT-4o**.  
+🔹 **LLM-Driven Storytelling**: Generates **rich, context-aware** narratives using **InternVL2-40B**.  
 🔹 **Chroma Vector Search**: Stores and retrieves **image-text embeddings** for enhanced relevance.  
 🔹 **Cloud Integration**: Supports **Cloudinary** for image hosting and efficient handling.  
 🔹 **Streamlit UI**: Interactive interface for seamless user interaction.  
@@ -50,8 +50,9 @@ This project follows an **Agentic RAG (Retrieval-Augmented Generation) framework
 2️⃣ **Embedding Generation**: The image is processed using **Hugging Face CLIP** embeddings.  
 3️⃣ **Retrieval Decision**:  
    - If relevant **stories exist**, the retriever fetches them for context.  
-   - If no prior data is found, the system **generates a story from scratch**.  
-4️⃣ **LLM-Based Generation**: Uses **GPT-4o** to craft a compelling story.  
+   - If no prior data is found, the system **generates a story from scratch**.
+     
+4️⃣ **LLM-Based Generation**: Uses **InternVL2-40B** to craft a compelling story.  
 5️⃣ **User Display**: The generated story is displayed in the UI.  
 6️⃣ **Audio Narration** – Converts generated stories into speech.  
 
