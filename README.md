@@ -82,8 +82,8 @@ This **state-driven agentic AI approach** ensures that each decision maximizes t
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/fork123aniket/VLM-powered-Multimodal-Conversational-AI-Bot.git
-cd VLM-powered-Multimodal-Conversational-AI-Bot
+git clone https://github.com/fork123aniket/Agentic-RAG-Storytelling-with-Multimodal-GenAI.git
+cd Agentic-RAG-Storytelling-with-Multimodal-GenAI
 ```
 
 ### **2️⃣ Install Dependencies**  
